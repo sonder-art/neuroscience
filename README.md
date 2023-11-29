@@ -1,7 +1,8 @@
 # neuroscience
 computational neuroscience
 ## Clase en vivo 
-CDMX ITAM, Rio Hondo 16:00 a 17:30
+CDMX ITAM, Rio Hondo 16:00 a 17:30  
+
 Demo: AI, EMR & Alcoholismo con el Dr. Daniel Guerrero
 Wednesday, November 29 · 4:00 – 5:30pm
 Time zone: America/Mexico_City
